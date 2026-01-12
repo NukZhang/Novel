@@ -17,6 +17,7 @@ provider:
 ./SPEC/Me2AI/故事整体设定.md 
 ./SPEC/Me2AI/核心角色.md
 ./SPEC/Me2AI/写作风格.md
+./SPEC/Me2AI/核心反派.md
 
 5，AI2AI中的文档为你的创作架构和状态记录， 在开始写每一章时，先读取本目录全部内容，以及前置章节的内容。在完成一章写作后，更新维护这里的内容。
 ./SPEC/AI2AI/章节目录以及写作状态.md
